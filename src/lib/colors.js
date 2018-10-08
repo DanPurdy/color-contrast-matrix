@@ -1,0 +1,67 @@
+export default [
+    'F4CB0B',
+    'F7DB54',
+    'F9E585',
+    'FDF5CE',
+    'FEFAE7',
+
+    'E73F62',
+    'EE7991',
+    'F39FB0',
+    'FAD8E0',
+    'FDECEF',
+
+    'C03552',
+    'D37186',
+    'DF9AA9',
+    'F3D7DC',
+    'F9EBEE',
+
+    '41C07D',
+    '7AD3A4',
+    'A0DFBE',
+    'D9F3E5',
+    'ECF9F2',
+
+    '6A8A9D',
+    '96ADBA',
+    'B5C4CE',
+    'E1E8EB',
+    'F0F3F5',
+
+    'F36450',
+    'F79385',
+    'F9B1A8',
+    'FDE0DC',
+    'FEEFED',
+
+    '33ADB0',
+    '70C6C8',
+    '99D6D7',
+    'D6EFEF',
+    'EBF7F7',
+
+    '338770',
+    '70AB9B',
+    '99C3B8',
+    'D6E7E2',
+    'EBF3F1',
+
+    '003A46',
+    '4D757D',
+    '809DA2',
+    'CCD7DA',
+    'E5EBEC',
+
+    '493954',
+    '807487',
+    'A49CAA',
+    'DBD7DD',
+    'EDEBEE',
+
+    '3C3C3C',
+    '777777',
+    '9E9E9E',
+    'D8D8D8',
+    'ECECEC',
+];
